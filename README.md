@@ -7,9 +7,4 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 
 ## Days Completed
 
-* Day 1:
-
-
-## Poems
-
-### [Day 1](https://www.adventofcode.com/2023/day/1): 
+* Day 1: Trebuchet?!
