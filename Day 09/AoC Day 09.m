@@ -9,6 +9,14 @@ day = 9;
 inputPath = 
   FileNameJoin[{NotebookDirectory[], 
     "Day" <> ToString[day] <> "Input.txt"}];
+toExpression[inputText_] :=
+  Map[
+   If[! IntegerQ[#] \[And] 
+      StringMatchQ[#, 
+       Alternatives["+", "-", ""] ~~ DigitCharacter ..], 
+     ToExpression[#], #] &,
+   inputText,
+   {Depth[inputText] - 1, Depth[inputText]}];
 input = toExpression[Import[inputPath, "Table"]];
     
 (*Part 1*)
