@@ -16,3 +16,5 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 7: Camel Cards
 * Day 8: Haunted Wasteland
 * Day 9: Mirage Maintenance
+* **Day 10: Pipe Maze**
+* Day 11: Cosmic Expansion
