@@ -5,7 +5,7 @@
 
 (*Import*)
 
-day = 12;
+day = 13;
 inputPath = 
   FileNameJoin[{NotebookDirectory[], 
     "Day" <> ToString[day] <> "Input.txt"}];
