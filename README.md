@@ -20,3 +20,4 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 11: Cosmic Expansion
 * Day 12: Hot Springs
 * Day 13: Point of Incidence
+* Day 14: Parabolic Reflector Dish
