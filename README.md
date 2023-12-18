@@ -21,3 +21,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 12: Hot Springs
 * Day 13: Point of Incidence
 * Day 14: Parabolic Reflector Dish
+* Day 15: Lens Library
+* Day 16: The Floor Will Be Lava
+* Day 17: Clumsy Crucible
+* Day 18: Lavaduct Lagoon

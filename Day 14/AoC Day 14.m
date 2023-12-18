@@ -10,7 +10,7 @@ inputPath =
   FileNameJoin[{NotebookDirectory[], 
     "Day" <> ToString[day] <> "Input.txt"}];
 
-input = input = Characters /@ Import[inputPath, "List"];
+input = Characters /@ Import[inputPath, "List"];
 
 (*Part 1*)
 
