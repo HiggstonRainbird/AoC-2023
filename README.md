@@ -25,3 +25,7 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 16: The Floor Will Be Lava
 * Day 17: Clumsy Crucible
 * Day 18: Lavaduct Lagoon
+* Day 19: Aplenty
+* Day 20: Pulse Propagation
+* Day 21: Step Counter
+* Day 22: Sand Slabs
