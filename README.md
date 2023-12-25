@@ -31,3 +31,4 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 22: Sand Slabs
 * Day 23: A Long Walk
 * Day 24: Never Tell Me The Odds
+* Day 25: Snowverload
