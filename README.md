@@ -25,7 +25,9 @@ There's also a utilities file, Ulitities.nb, with some functions that proved use
 * Day 16: The Floor Will Be Lava
 * Day 17: Clumsy Crucible
 * Day 18: Lavaduct Lagoon
-* Day 19: Aplenty
+* **Day 19: Aplenty** (Contains a load-bearing syntax error, without which part 2 is ~50 times slower)
 * Day 20: Pulse Propagation
-* Day 21: Step Counter
+* **Day 21: Step Counter** (Code is in Rust, since my Mathematica script got corrupted)
 * Day 22: Sand Slabs
+* Day 23: A Long Walk
+* Day 24: Never Tell Me The Odds
